@@ -1,0 +1,14 @@
+I:\vs projects c#\project-2\C# Exam\C# Exam\bin\Debug\net8.0\C# Exam.exe
+I:\vs projects c#\project-2\C# Exam\C# Exam\bin\Debug\net8.0\C# Exam.deps.json
+I:\vs projects c#\project-2\C# Exam\C# Exam\bin\Debug\net8.0\C# Exam.runtimeconfig.json
+I:\vs projects c#\project-2\C# Exam\C# Exam\bin\Debug\net8.0\C# Exam.dll
+I:\vs projects c#\project-2\C# Exam\C# Exam\bin\Debug\net8.0\C# Exam.pdb
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.AssemblyInfoInputs.cache
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.AssemblyInfo.cs
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.csproj.CoreCompileInputs.cache
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.dll
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\refint\C# Exam.dll
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.pdb
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\C# Exam.genruntimeconfig.cache
+I:\vs projects c#\project-2\C# Exam\C# Exam\obj\Debug\net8.0\ref\C# Exam.dll
