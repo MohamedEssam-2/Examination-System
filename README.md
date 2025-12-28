@@ -1,8 +1,8 @@
 📝 Examination System (C# Console Application)
-
+---
 A console-based Examination System built with C# and Object-Oriented Programming (OOP) principles.
 The system allows creating and conducting Final and Practical exams with different question types, validating user input, and calculating results interactively.
-
+---
 🚀 Features
 
 Create subjects dynamically
