@@ -61,7 +61,34 @@ Add questions dynamically
 Start the exam
 
 Evaluate answers and display results
+---
+📤 Sample Run(Final Exam)
+=========================
+Enter Subject Name: OS 
 
+Select Exam Type (1 = Final): 1
+
+Enter Exam Duration: 30 
+
+Number of Questions: 1 
+
+Enter Question Body: OS is refer to Operating System 
+
+Enter Question Mark: 2
+
+Enter Correct Answer (true/false only ): true
+
+--- Exam Created --- --- Final Exam for OS --- Do you want start exam now (Y / N)? y
+
+Do you want start exam now (Y / N)? y 
+
+OS is refer to Operating System Enter answer (true/false): true
+
+Correct Answer 
+
+Final Grade: 2/2 Thank You 
+
+👤 Author Mohamed Essam
 --
 
 
