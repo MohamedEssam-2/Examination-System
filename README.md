@@ -22,6 +22,7 @@ Practical Exam
 --
 
 MCQ questions only
+--
 
 Custom exam duration (30–180 minutes)
 
