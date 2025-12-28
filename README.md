@@ -47,7 +47,6 @@ Language: C#
 🎯 Use Case Scenario
 ---
 A teacher wants to create an exam for a subject (e.g., C# Programming) and allow students to take it through a console application.
-
 Flow Enter subject name 
 Choose exam type (Final / Practical) 
 Set exam duration
