@@ -44,22 +44,7 @@ Clean OOP design (Inheritance, Polymorphism, Abstraction, Aggregation)
 Language: C#
 
 ----
-
-C__Exam
-│
-├── Exam
-│   ├── Base_Exam.cs
-│   ├── Final.cs
-│   ├── Practical.cs
-│   └── Subject.cs
-│
-├── Question
-│   ├── Base_Question.cs
-│   ├── Mcq_Class.cs
-│   ├── True_OR_Fasle.cs
-│   └── Answer.cs
-│
-└── Program.cs
+tree /F /A
 
 
 
