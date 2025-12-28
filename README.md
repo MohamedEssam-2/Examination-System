@@ -48,14 +48,13 @@ Language: C#
 ---
 C__Exam
 │
-├── Program.cs
-├── C__Exam.csproj
-│
+ ├── Program.cs
+
 ├── Exam
-│   ├── Base_Exam.cs
-│   ├── Final.cs
-│   ├── Practical.cs
-│   └── Subject.cs
+ │   ├── Base_Exam.cs
+ │   ├── Final.cs
+ │   ├── Practical.cs
+ │   └── Subject.cs
 │
 └── Question
     ├── Base_Question.cs
