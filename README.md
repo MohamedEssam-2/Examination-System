@@ -61,14 +61,13 @@ Add questions dynamically
 Start the exam
 
 Evaluate answers and display results
+
 ---
 📤 Sample Run(Final Exam)
 =========================
 Enter Subject Name: OS 
 
-Select Exam Type (1 = Final , 2= Practical ):
-
-1
+Select Exam Type (1 = Final , 2= Practical ):1
 
 Enter Exam Duration: 30 
 
