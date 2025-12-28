@@ -1,5 +1,140 @@
-🎓 Examination Management System
-A robust, console-based C# Examination System built using Object-Oriented Programming (OOP) principles. This system allows instructors to design different types of exams (Final and Practical) with diverse question formats, including MCQ and True/False.
+📝 Examination System (C# Console Application)
 
-📝 Description
-This project demonstrates the core pillars of OOP: Inheritance, Encapsulation, Abstraction, and Polymorphism. It provides a complete workflow for creating a subject, defining an exam's structure, adding questions with specific marks, and simulating the student's examination experience with real-time grading.
+A console-based Examination System built with C# and Object-Oriented Programming (OOP) principles.
+The system allows creating and conducting Final and Practical exams with different question types, validating user input, and calculating results interactively.
+
+🚀 Features
+
+Create subjects dynamically
+
+Support two exam types:
+
+Final Exam
+
+True / False questions
+
+Multiple Choice Questions (MCQ)
+
+Practical Exam
+
+MCQ questions only
+
+Custom exam duration (30–180 minutes)
+
+Dynamic number of questions
+
+Input validation for all user entries
+
+Automatic grading for Final exams
+
+Display correct answers for Practical exams
+
+Clean OOP design (Inheritance, Polymorphism, Abstraction, Aggregation)
+
+🛠 Technologies Used
+
+Language: C#
+
+📂 Project Structure
+
+C__Exam
+│
+├── Exam
+│   ├── Base_Exam.cs
+│   ├── Final.cs
+│   ├── Practical.cs
+│   └── Subject.cs
+│
+├── Question
+│   ├── Base_Question.cs
+│   ├── Mcq_Class.cs
+│   ├── True_OR_Fasle.cs
+│   └── Answer.cs
+│
+└── Program.cs
+
+
+🎯 Use Case
+Scenario
+
+A teacher wants to create an exam for a subject (e.g., C# Programming) and allow students to take it through a console application.
+
+Flow
+
+Enter subject name
+
+Choose exam type (Final / Practical)
+
+Set exam duration
+
+Define number of questions
+
+Add questions dynamically
+
+Start the exam
+
+Evaluate answers and display results
+
+▶️ How the Application Works
+
+The user creates a Subject
+
+Chooses the Exam Type
+
+Adds questions:
+
+True / False
+
+MCQ with multiple answers
+
+The system validates all inputs
+
+The exam starts upon user confirmation
+
+Results are displayed at the end
+
+
+📤 Sample Input (Final Exam)
+Enter Subject Name:
+OS
+
+Select Exam Type (1 = Final):
+1
+
+Enter Exam Duration:
+30
+
+Number of Questions:
+1
+
+Enter Question Body: 
+OS is refer to Operating System 
+
+Enter Question Mark: 
+2
+
+Enter Correct Answer (true/false only ): 
+true
+
+--- Exam Created ---
+--- Final Exam for OS ---
+
+Do you want start exam now (Y / N)?
+y
+
+OS is refer to Operating System
+Enter answer (true/false): true
+
+Correct Answer
+
+Final Grade: 2/2
+Thank You
+
+
+👤 Author
+
+Mohamed Essam
+
+Framework: .NET Console Application
+
+Paradigm: Object-Oriented Programming (OOP)
