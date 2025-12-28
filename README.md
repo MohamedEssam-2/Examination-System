@@ -11,14 +11,14 @@ Create subjects dynamically
 
 Support two exam types:
 
-Final Exam
+1.Final Exam
 -
 
 True / False questions
 
 Multiple Choice Questions (MCQ)
 
-Practical Exam
+2.Practical Exam
 --
 
 MCQ questions only
