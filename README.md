@@ -39,7 +39,10 @@ Clean OOP design (Inheritance, Polymorphism, Abstraction, Aggregation)
 
 ----
 🛠 Technologies Used
+---
+Language: C#
 ----
+
 Language: C#
 --
 
