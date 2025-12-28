@@ -66,7 +66,9 @@ Evaluate answers and display results
 =========================
 Enter Subject Name: OS 
 
-Select Exam Type (1 = Final): 1
+Select Exam Type (1 = Final , 2= Practical ):
+
+1
 
 Enter Exam Duration: 30 
 
