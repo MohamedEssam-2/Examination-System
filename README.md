@@ -38,9 +38,11 @@ Display correct answers for Practical exams
 Clean OOP design (Inheritance, Polymorphism, Abstraction, Aggregation)
 
 ----
+
 🛠 Technologies Used
 ---
 Language: C#
+
 ----
 
 Language: C#
