@@ -44,24 +44,18 @@ Clean OOP design (Inheritance, Polymorphism, Abstraction, Aggregation)
 Language: C#
 
 ----
-📂 Project Structure
+🎯 Use Case Scenario
 ---
-C__Exam
-│
- ├── Program.cs
+A teacher wants to create an exam for a subject (e.g., C# Programming) and allow students to take it through a console application.
 
-├── Exam
- │   ├── Base_Exam.cs
- │   ├── Final.cs
- │   ├── Practical.cs
- │   └── Subject.cs
-│
-└── Question
-    ├── Base_Question.cs
-    ├── Mcq_Class.cs
-    ├── True_OR_Fasle.cs
-    └── Answer.cs
-
+Flow Enter subject name 
+Choose exam type (Final / Practical) 
+Set exam duration
+Define number of questions
+Add questions dynamically 
+Start the exam
+Evaluate answers and display results
+--
 
 
 ----
