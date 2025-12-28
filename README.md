@@ -49,7 +49,6 @@ Language: C#
 
 C__Exam
 │
-
 ├── Exam
 
 │   ├── Base_Exam.cs
@@ -59,10 +58,6 @@ C__Exam
 │   ├── Practical.cs
 
 │   └── Subject.cs
-
-
-
-
 │
 ├── Question
 
